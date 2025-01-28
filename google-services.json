@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628491572450",
+    "firebase_url": "https://harelcohenfit-7b27a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "harelcohenfit-7b27a",
+    "storage_bucket": "harelcohenfit-7b27a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628491572450:android:936c54fe0bda0847afbabb",
+        "android_client_info": {
+          "package_name": "com.OrWinik.HarelCohenFit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628491572450-c4rdgpcglv3ir8f33o42pg5du1hskijm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqjnHt9v3oCxhrTYujLZuxPN67CuBxnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628491572450-c4rdgpcglv3ir8f33o42pg5du1hskijm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628491572450-c388qsg0iktivouk5t9evtkv74qiobml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.OrWinik.HarelCohenFit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
