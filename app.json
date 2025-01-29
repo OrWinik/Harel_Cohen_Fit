@@ -16,7 +16,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/HarelLogo.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.OrWinik.HarelCohenFit"
     },
     "web": {
       "bundler": "metro",
